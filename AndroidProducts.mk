@@ -5,8 +5,8 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_phoenix.mk
+    $(LOCAL_DIR)/dot_phoenix.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_phoenix-userdebug \
-    aosp_phoenix-eng
+    dot_phoenix-userdebug \
+    dot_phoenix-eng
